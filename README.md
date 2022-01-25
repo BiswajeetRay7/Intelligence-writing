@@ -118,7 +118,8 @@ There are little public resources about this specific topic. Please feel free to
 
 #### Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/mxm0z/awesome-intelligence-writing.svg)](https://starchart.cc/mxm0z/awesome-intelligence-writing)
+
+[![Stargazers over time](https://starchart.cc/BiswajeetRay7/Intelligence-writing.svg)](https://starchart.cc/BiswajeetRay7/Intelligence-writing)
 
 ---
 
