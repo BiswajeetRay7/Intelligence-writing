@@ -124,5 +124,4 @@ There are little public resources about this specific topic. Please feel free to
 ---
 
 #### Disclaimer
-
-I currently work as a Cyber Threat Intelligence Analyst but **I'm not an expert on intelligence writing**. I created this collection as part of my learning process of this essential topic and as a way to share and learn with the intelligence/cybersecurity community.
+ I created this collection as part of my learning process of this essential topic and as a way to share and learn with the intelligence/cybersecurity community.
