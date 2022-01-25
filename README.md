@@ -1,5 +1,5 @@
 # Intelligence-writing
-## Intelligence Writing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mxm0z/awesome-intelligence-writing)
+## Intelligence Writing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/BiswajeetRay7/Intelligence-writing.git)
 
 _<div align="center">Good intelligence depends in large measure on clear, concise writing. (CIA)_</div>
 
@@ -112,7 +112,7 @@ Articles & News related to CIA's Style Manual & Writers Guide
 ---
 #### Contribute <3
 
-There are little public resources about this specific topic. Please feel free to contribute on this project, either by sending a PR or sending me a message at ygormaximo@pm.me with suggestions of additional resources.
+There are little public resources about this specific topic. Please feel free to contribute on this project.
 
 ---
 
