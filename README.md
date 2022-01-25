@@ -1,5 +1,5 @@
 # Intelligence-writing
-## Intelligence Writing [![Cool]([![](https://data.jsdelivr.com/v1/package/npm/hacked-react-twemoji-picker/badge)](https://www.jsdelivr.com/package/npm/hacked-react-twemoji-picker)](https://github.com/BiswajeetRay7/Intelligence-writing.git)
+## Intelligence Writing [![Cool][![](https://data.jsdelivr.com/v1/package/npm/hacked-react-twemoji-picker/badge)](https://www.jsdelivr.com/package/npm/hacked-react-twemoji-picker)(https://github.com/BiswajeetRay7/Intelligence-writing.git)
 
 _<div align="center">Good intelligence depends in large measure on clear, concise writing. (CIA)_</div>
 
