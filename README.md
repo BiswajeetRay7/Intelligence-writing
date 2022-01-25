@@ -1,5 +1,5 @@
 # Intelligence-writing
-## Intelligence Writing [![0)](https://github.com/BiswajeetRay7/Intelligence-writing.git)
+## Intelligence Writing 
 
 _<div align="center">Good intelligence depends in large measure on clear, concise writing. (CIA)_</div>
 
