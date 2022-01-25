@@ -1,5 +1,5 @@
 # Intelligence-writing
-## Intelligence Writing [![Cool](cdn.jsdelivr.net/npm/hacked-react-twemoji-picker@0.1.0/twemoji.svg)(https://github.com/BiswajeetRay7/Intelligence-writing.git)
+## Intelligence Writing [![0)](https://github.com/BiswajeetRay7/Intelligence-writing.git)
 
 _<div align="center">Good intelligence depends in large measure on clear, concise writing. (CIA)_</div>
 
