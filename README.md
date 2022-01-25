@@ -1,5 +1,5 @@
 # Intelligence-writing
-## Intelligence Writing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/BiswajeetRay7/Intelligence-writing.git)
+## Intelligence Writing [![Cool]([![](https://data.jsdelivr.com/v1/package/npm/hacked-react-twemoji-picker/badge)](https://www.jsdelivr.com/package/npm/hacked-react-twemoji-picker)](https://github.com/BiswajeetRay7/Intelligence-writing.git)
 
 _<div align="center">Good intelligence depends in large measure on clear, concise writing. (CIA)_</div>
 
